@@ -10,8 +10,8 @@
 |---------|-------------|---------|
 | **📊 Financial Dashboard** | Real-time overview of your financial health | ![Dashboard](https://i.imgur.com/5vGk9ZL.png) |
 | **🔐 Secure Authentication** | JWT-based login/signup with password encryption | ![Login](https://i.imgur.com/mXwPj3f.png) |
-| **📈 Smart Analytics** | Interactive charts for spending patterns | ![Analytics](https://i.imgur.com/QZJYl9D.png) |
-| **📱 Mobile Responsive** | Works flawlessly on all devices | ![Mobile](https://i.imgur.com/8WnUVqg.png) |
+
+
 
 ---
 
