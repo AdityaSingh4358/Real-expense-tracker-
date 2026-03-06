@@ -125,7 +125,7 @@ Open a Pull Request
 ```
 👨‍💻 Developer
 <div align="center">
-Subham Nayak
+Aditya Mohan Singh
 Full Stack Developer
 </div>
 
